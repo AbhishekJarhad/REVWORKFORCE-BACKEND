@@ -140,7 +140,7 @@ Employee	employee@revworkforce.com
 employee123
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/abhishek/.git
+https://github.com/AbhishekJarhad/REVWORKFORCE-BACKEND.git
 2️⃣ Configure MySQL
 
 Create database Abhidata
